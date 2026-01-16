@@ -1,10 +1,10 @@
-# Why Cloud Foundry
+# 🟢 Why Cloud Foundry
 
-* Open Source
-* Support full development lifecycle
+* <mark style="color:purple;background-color:purple;">**Open Source**</mark>
+* <mark style="color:purple;background-color:purple;">**Support full development lifecycle ⇒ CI/CD**</mark>
 * Development ⇒ Testing ⇒ Deployment
 * CD ⇒ Code ⇒ Push ⇒ Test ⇒ Build
-* CD ⇒ Dev ⇒ QA ⇒ Prod
+* CI ⇒ Dev ⇒ QA ⇒ Prod
 *
 
     <figure><img src=".gitbook/assets/{DE25578F-6785-462C-86B8-E4542A7DAF3E}.png" alt=""><figcaption></figcaption></figure>

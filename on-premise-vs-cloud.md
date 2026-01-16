@@ -1,4 +1,8 @@
-# On Premise vs Cloud
+---
+hidden: true
+---
+
+# ✈️ On Premise vs Cloud
 
 *
 

@@ -1,6 +1,5 @@
-# Sub Account
+# 🟢 Sub Account
 
-* Global Account ⇒ Create ⇒ Sub Account
-* Select Region
-* Sub domain
-*
+* <mark style="color:purple;background-color:purple;">**Global Account ⇒ Create ⇒ Sub Account**</mark>
+* <mark style="color:purple;background-color:purple;">**Select Region**</mark>
+* <mark style="color:purple;background-color:purple;">**Sub domain**</mark>

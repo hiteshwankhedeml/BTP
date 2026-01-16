@@ -1,11 +1,11 @@
-# Type of Cloud Offerings
+# 🟢 Type of Cloud Offerings
 
 * Infra as a service ⇒ Google, Azure, AWS
 * Platform as a service ⇒ Runtime, Database, Middleware, OS
 * Application as a service
-* if a customer manages everything ⇒ On Premise&#x20;
-* Infra given by SAP, Platforms and application managed by SAP
-* Infra and Platform managed by SAP ⇒ SAP BTP
+* <mark style="color:purple;background-color:purple;">**if a customer manages everything ⇒ On Premise**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**Infra given by SAP, Platforms and application managed by SAP**</mark>
+* <mark style="color:purple;background-color:purple;">**Infra and Platform managed by SAP ⇒ SAP BTP**</mark>
 * If everything managed by SAP including by SAP like SAP datasphere, SAP analytics cloud then ⇒ SAP managed
 *
 

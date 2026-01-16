@@ -1,15 +1,15 @@
-# Environment
+# 🟢 Environment
 
 * Constitute the actual platform as a service offering of BTP that allows for the development and administration of business applications
-* At sub account level
+* <mark style="color:purple;background-color:purple;">**At sub account level**</mark>
 * 3 diff environment, some still have Neo but its no longer used
 
 
 
-* **Cloud Foundry:**
-  * Supports runtime for python, java, node, c etc
-  * Provides runtime called buildpack for running apps
-  * Its controlled by cf, we just use it
+* <mark style="color:purple;background-color:purple;">**Cloud Foundry:**</mark>
+  * <mark style="color:purple;background-color:purple;">**Supports runtime for python, java, node, c etc**</mark>
+  * <mark style="color:purple;background-color:purple;">**Provides runtime called buildpack for running apps**</mark>
+  * <mark style="color:purple;background-color:purple;">**Its controlled by cf, we just use it**</mark>
 * **ABAP Environment:**
   * Only ABAP
   * Done using RAP

@@ -1,4 +1,4 @@
-# Tenant
+# 🟢 Tenant
 
-* We are tenant in SAP BTP
-* Every account will have a tenant id
+* <mark style="color:purple;background-color:purple;">**We are tenant in SAP BTP**</mark>
+* <mark style="color:purple;background-color:purple;">**Every account will have a tenant id**</mark>

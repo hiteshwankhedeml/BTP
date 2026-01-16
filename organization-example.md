@@ -1,4 +1,8 @@
-# Organization - Example
+---
+hidden: true
+---
+
+# ✈️ Organization - Example
 
 *
 

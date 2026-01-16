@@ -1,4 +1,8 @@
-# Uber
+---
+hidden: true
+---
+
+# ✈️ Uber
 
 * Used monolithic in 2003
 * Converted to micro service in 2016&#x20;

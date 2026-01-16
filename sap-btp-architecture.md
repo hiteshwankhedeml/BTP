@@ -1,4 +1,8 @@
-# SAP BTP Architecture
+---
+hidden: true
+---
+
+# ✈️ SAP BTP Architecture
 
 * 4 Major Areas
   * Database and Database management

@@ -1,8 +1,8 @@
-# History of CF
+# 🟢 History of CF
 
 * Pivotal came up with Cloud Foundry
-* In 2019 SAP commited to using Cloud foundry
-* In 2021 SAP rebranded SAP Cloud Platform to SAP BTP
+* <mark style="color:purple;background-color:purple;">**In 2019 SAP commited to using Cloud foundry**</mark>
+* <mark style="color:purple;background-color:purple;">**In 2021 SAP rebranded SAP Cloud Platform to SAP BTP**</mark>
 * ESO2 is also similar to cloud foundry, but it did not grow
 *
 

@@ -1,4 +1,8 @@
-# Demo BTP Application
+---
+hidden: true
+---
+
+# ✈️ Demo BTP Application
 
 * mkdir btpdemo ⇒ a new project is like a new folder
 * cds init ⇒ Project structure will be created

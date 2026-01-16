@@ -1,3 +1,3 @@
-# BTP Service Catalog
+# 🟢 BTP Service Catalog
 
-* We can see the list in discovery center
+* <mark style="color:purple;background-color:purple;">**We can see the list in discovery center**</mark>

@@ -1,4 +1,4 @@
-# Subaccount - Service
+# 🟢 Subaccount - Service
 
-* If we create an sub-account of AWS US
-* Then we can only use service available in AWS US
+* <mark style="color:purple;background-color:purple;">**If we create an sub-account of AWS US**</mark>
+* <mark style="color:purple;background-color:purple;">**Then we can only use service available in AWS US**</mark>
