@@ -1,23 +1,23 @@
-# Scope, Attributes, Roles
+# 🟢 Scope, Attributes, Roles
 
-**Scope:**
+<mark style="color:purple;background-color:purple;">**Scope:**</mark>
 
-* Single granular level permission like display, edit
+* <mark style="color:purple;background-color:purple;">**Single granular level permission like display, edit**</mark>
 * A scope can have attributes
 
-**Attributes:**
+<mark style="color:purple;background-color:purple;">**Attributes:**</mark>
 
-* To control based on country or plant etc
+* <mark style="color:purple;background-color:purple;">**To control based on country or plant etc**</mark>
 
-**Role template:**
+<mark style="color:purple;background-color:purple;">**Role template:**</mark>
 
 * Scope is connected with role template
-* We add scope + attributes
+* <mark style="color:purple;background-color:purple;">**We add scope + attributes**</mark>
 
-**Role Collection:**
+<mark style="color:purple;background-color:purple;">**Role Collection:**</mark>
 
-* Equivalent of role in SAP
-* It will be assigned to user
+* <mark style="color:purple;background-color:purple;">**Equivalent of role in SAP**</mark>
+* <mark style="color:purple;background-color:purple;">**It will be assigned to user**</mark>
 
 
 

@@ -1,4 +1,4 @@
-# Tools and Installation
+# 🟢 Tools and Installation
 
 1. **JRE and node (Runtime):**
 
@@ -9,7 +9,7 @@
   * nodejs 18 download
   * node -v ⇒ to check the version
 
-2. **CF CLI (Command line interface) to communicate with SAP BTP:**
+2. <mark style="color:purple;background-color:purple;">**CF CLI (Command line interface) to communicate with SAP BTP:**</mark>
 
 * Install from cloud foundry website
 * cf --help ⇒ to check version

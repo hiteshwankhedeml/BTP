@@ -1,4 +1,8 @@
-# Spring framework
+---
+hidden: true
+---
+
+# ✈️ Spring framework
 
 * Framework used by java programmers
 * To develop complex applications — UI based, cloud microservice based with security, cloud native apps, web portals etc.

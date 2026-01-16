@@ -1,8 +1,8 @@
-# HANA
+# 🟢 HANA
 
 * High Performance Analytic Application
-* In memory DB
-* HD only for backup and recovery and all the data will be kept in RAM - In memory
+* <mark style="color:purple;background-color:purple;">**In memory DB**</mark>
+* <mark style="color:purple;background-color:purple;">**HD only for backup and recovery and all the data will be kept in RAM - In memory**</mark>
 
 **Software and Hardware innovations:**
 
