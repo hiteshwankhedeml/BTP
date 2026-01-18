@@ -47,4 +47,8 @@
 * [🟢 IDP](idp.md)
 * [🟢 How it works behind the scenes](how-it-works-behind-the-scenes.md)
 * [🟢 Implementation Steps](implementation-steps.md)
+* [🟢 CI/CD](ci-cd.md)
+* [🟢 CI/CD Setup](ci-cd-setup.md)
+* [🟢 Cloud Transport System - Setup](cloud-transport-system-setup.md)
+* [🟢 Git Actions](git-actions.md)
 * [🏁 ---------- 40 ----------](40.md)
