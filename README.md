@@ -8,7 +8,7 @@
   * Low TCO
 * Infra will be provided GCP, AWS, Azure
 * On top of SAP BTP is provided as a service&#x20;
-* <mark style="color:purple;background-color:purple;">**It can help develop applications without worrying the underlying platform required**</mark>
+* <mark style="color:red;background-color:purple;">**It can help develop applications without worrying the underlying platform required**</mark>
 * <mark style="color:purple;background-color:purple;">**Developer just has to focus on application and data**</mark>
 *
 
