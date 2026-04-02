@@ -45,6 +45,7 @@
 * [🟢 Authentication vs Authorization(Security)](authentication-vs-authorization-security.md)
 * [🟢 Scope, Attributes, Roles](scope-attributes-roles.md)
 * [🟢 IDP](idp.md)
+* [Implement XSUAA](implement-xsuaa.md)
 * [🟢 How it works behind the scenes](how-it-works-behind-the-scenes.md)
 * [🟢 Implementation Steps](implementation-steps.md)
 * [🟢 CI/CD](ci-cd.md)
