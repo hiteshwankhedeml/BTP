@@ -52,4 +52,8 @@
 * [🟢 CI/CD Setup](ci-cd-setup.md)
 * [🟢 Cloud Transport System - Setup](cloud-transport-system-setup.md)
 * [🟢 Git Actions](git-actions.md)
+* [🟢 HANA HDI](hana-hdi.md)
+* [🟢 HANA vs HDI](hana-vs-hdi.md)
+* [Read - HDI](read-hdi.md)
+* [Save - HDI](save-hdi.md)
 * [🏁 ---------- 40 ----------](40.md)
