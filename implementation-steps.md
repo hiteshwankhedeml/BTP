@@ -1,4 +1,8 @@
-# 🟢 Implementation Steps
+---
+hidden: true
+---
+
+# ✈️ Implementation Steps
 
 * <mark style="color:purple;background-color:purple;">**Add a new service instance - Authorization and Trust Management**</mark>
 * <mark style="color:purple;background-color:purple;">**While creating instance, we need to provide json with app name, scope, redirect url etc**</mark>

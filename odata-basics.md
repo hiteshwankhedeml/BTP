@@ -1,4 +1,8 @@
-# 🟢 OData Basics
+---
+hidden: true
+---
+
+# ✈️ OData Basics
 
 * <mark style="color:purple;background-color:purple;">**REST Based**</mark>
 * <mark style="color:purple;background-color:purple;">**Best practice**</mark>

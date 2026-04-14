@@ -1,4 +1,8 @@
-# 🟢 Why we need frameworks to develop apps?
+---
+hidden: true
+---
+
+# ✈️ Why we need frameworks to develop apps?
 
 * Framework is a collection of libraries, classes which contains ready to use patterns and code
 * It standardizes our complicated development in real-time

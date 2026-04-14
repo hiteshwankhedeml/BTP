@@ -1,5 +1,9 @@
-# Read - HDI
+# 🟢 Read - HDI
 
+* <mark style="color:$danger;background-color:purple;">**Use hdbcli**</mark>
+* <mark style="color:$danger;background-color:purple;">**Create connection**</mark>
+* <mark style="color:$danger;background-color:purple;">**Get cursor**</mark>
+* <mark style="color:$danger;background-color:purple;">**Using cursor execute the select statement**</mark>
 * Driver: `pip install hdbcli` (SAP HANA client for Python).
 * Credentials: from BTP — SAP HANA Cloud instance Service Key (or binding env), or CF `VCAP_SERVICES` / local `default-env.json` when using `cf` tooling.
 * From service key JSON (typical fields): `host`, `port` (often `443`), `user`, `password`, `certificate` (if using cert auth — then follow SAP doc for `ssl*` options).

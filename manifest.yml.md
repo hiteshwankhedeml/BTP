@@ -4,8 +4,9 @@
   * <mark style="color:purple;background-color:purple;">**App name ⇒ Mandatory**</mark>
   * <mark style="color:purple;background-color:purple;">**Size**</mark>
   * <mark style="color:purple;background-color:purple;">**Runtime environment**</mark>
+  * <mark style="color:$danger;background-color:purple;">**buildpack**</mark>
   * <mark style="color:purple;background-color:purple;">**Automatically allocate URL**</mark>
-  * <mark style="color:purple;background-color:purple;">**Services to be binded**</mark>
+  * <mark style="color:$danger;background-color:purple;">**Services to be binded**</mark>
 * Runtime environment is also optional, as per file extension it will take up the runtime
 * [https://docs.cloudfoundry.org/devguide/deploy-apps/manifest-attributes.html#minimal-manifest](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest-attributes.html#minimal-manifest)
 

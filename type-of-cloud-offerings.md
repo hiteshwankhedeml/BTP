@@ -5,7 +5,7 @@
 * Application as a service
 * <mark style="color:purple;background-color:purple;">**if a customer manages everything ⇒ On Premise**</mark>&#x20;
 * <mark style="color:purple;background-color:purple;">**Infra given by SAP, Platforms and application managed by SAP**</mark>
-* <mark style="color:red;background-color:purple;">**Infra and Platform managed by SAP ⇒ SAP BTP**</mark>
+* <mark style="color:orange;background-color:purple;">**Infra and Platform managed by SAP ⇒ SAP BTP**</mark>
 * If everything managed by SAP including by SAP like SAP datasphere, SAP analytics cloud then ⇒ SAP managed
 *
 
