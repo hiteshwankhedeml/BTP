@@ -1,4 +1,4 @@
-# Save - HDI
+# 🟢 Save - HDI
 
 * Same connection setup as §3; user needs INSERT on the target table (via HDI grants / role — not covered here).
 * Use parameters (`?`) — avoid string concatenation for values.

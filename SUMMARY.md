@@ -50,7 +50,7 @@
 * [🟢 HANA HDI](hana-hdi.md)
 * [🟢 HANA vs HDI](hana-vs-hdi.md)
 * [🟢 Read - HDI](read-hdi.md)
-* [Save - HDI](save-hdi.md)
+* [🟢 Save - HDI](save-hdi.md)
 * [🏁 ---------- 40 ----------](40.md)
 * [🟢 Git Actions](git-actions.md)
 * [🟢 CI/CD](ci-cd.md)
