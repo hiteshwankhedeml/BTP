@@ -8,7 +8,7 @@
   * <mark style="color:purple;background-color:purple;">**Cannot scale a single component, everything will have to be scaled**</mark>
 * **Microservice:**
   * All the components are broken into smaller micro units
-  * <mark style="color:$danger;">**A micro service is represented like a polygon in diagram**</mark>
+  * <mark style="color:$danger;background-color:purple;">**A micro service is represented like a polygon in diagram**</mark>
   * <mark style="color:purple;background-color:purple;">**Each micro service can scale up individually**</mark>
   * Application is safe even if one part breaks down
   * We have choice of technology

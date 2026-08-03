@@ -1,7 +1,7 @@
 # 🟢 What is SAP BTP
 
-* Using Infra as a service we can get Servers, Networking etc.
-* Platforms as a service provides runtimes, database, OS
+* <mark style="color:purple;background-color:purple;">**Infra as a service ⇒  Servers, Networking etc.**</mark>
+* <mark style="color:purple;background-color:purple;">**Platforms as a service ⇒  runtimes, database, OS**</mark>
 * SAP BTP is fully ready landscape with reusable service
   * Scalability ⇒ Horizontal / Vertical scaling
   * Elasticity ⇒ Any technology can be used

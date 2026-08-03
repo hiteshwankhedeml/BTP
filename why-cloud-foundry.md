@@ -1,7 +1,7 @@
 # 🟢 Why Cloud Foundry
 
 * <mark style="color:purple;background-color:purple;">**Open Source**</mark>
-* <mark style="color:purple;background-color:purple;">**Support full development lifecycle ⇒**</mark>**&#x20;**<mark style="color:red;background-color:purple;">**CI/CD**</mark>
+* <mark style="color:purple;background-color:purple;">**Support full development lifecycle ⇒**</mark> <mark style="color:$danger;background-color:purple;">**CI/CD**</mark>
 * Development ⇒ Testing ⇒ Deployment
 * CD ⇒ Code ⇒ Push ⇒ Test ⇒ Build
 * CI ⇒ Dev ⇒ QA ⇒ Prod
